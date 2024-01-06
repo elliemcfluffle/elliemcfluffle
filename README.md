@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @elliemcfluffle
 - 👀 I’m interested in game development, comics, digital art, and story writing.
 - 🌱 I’m currently learning how to create video games in Godot and GameMaker, and how to create 2D assets for video games.
-- 💞️ I’m looking to collaborate on the Pirate Software Gam Jame 2024.
+- 💞️ I’m looking to collaborate on the Pirate Software Gam Jame 14.
 - 📫 How to reach me: elliemcfluffle@gmail.com
 
 <!---
